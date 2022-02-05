@@ -8,8 +8,8 @@
 
 ---------------------------------------------
 ### Personal Profile : 
- > ᪥ I am interested in computer 💻 science and developing hard unsolved problems with Python 🔮  and I am innovative Django full-stack developer familiar with React-Native(Expo) 🔫.
+ > 🐍 I am interested in computer science and developing hard unsolved problems with Python, I am an innovative Django full-stack developer familiar with React-Native(Expo) and other frontend tools like : HTML, CSS, Bootstrap ,... 🔫.
  
- > ᪥ Dedicated to learning, growing, and succeeding in Artificial intelligence especially deep learning and working on projects like melanoma cancer detection with      CNN and Anime face generator using Gans and ... 🤖
+ > 📗 Dedicated to learning, growing, and succeeding in Artificial intelligence especially deep learning and working on projects like melanoma cancer detection with      CNN and Anime face generator using Gans and ... .
  
- > ᪥ experienced in designing and creating API and non-API automation systems for trading on exchanges and extended advertisement systems on social media with python.
+ > 🤖 experienced in designing and creating API and non-API automation systems for trading on exchanges and extended advertisement systems on social media with python.
