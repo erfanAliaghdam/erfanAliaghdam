@@ -13,3 +13,6 @@
  > 📗 Dedicated to learning, growing, and succeeding in Artificial intelligence especially deep learning and working on projects like melanoma cancer detection with      CNN and Anime face generator using Gans and ... .
  
  > 🤖 experienced in designing and creating API and non-API automation systems for trading on exchanges and extended advertisement systems on social media with python.
+
+---------------------------------------------
+### 📬 Contact me : [Gmail](aliaghdam.erfan@gmail.com)
