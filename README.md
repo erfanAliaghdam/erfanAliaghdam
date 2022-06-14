@@ -1,9 +1,4 @@
-### 📢
-###### Until further notice for personal reasons my repositories are private 🔒 , I will come back soon ...
 ###### if you want to access my projects you can contact me by [Gmail](aliaghdam.erfan@gmail.com)
-
-
-
 
 
 ---------------------------------------------
