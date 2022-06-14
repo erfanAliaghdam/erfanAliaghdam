@@ -1,4 +1,4 @@
-###### if you want to access my private projects you can contact me by [Gmail](aliaghdam.erfan@gmail.com)
+###### if you want to access my private projects you can contact me by <a href = "mailto: aliaghdam.erfan@gmail.com">Send Email</a>
 
 
 ---------------------------------------------
@@ -18,7 +18,7 @@
 > [DeepLearning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta)
 
 ---------------------------------------------
-### 📬 Contact me : [Gmail](aliaghdam.erfan@gmail.com)
+### 📬 Contact me : <a href = "mailto: aliaghdam.erfan@gmail.com">Send Email</a>
 
 
 ![giphy (1)](https://user-images.githubusercontent.com/80113382/152644310-c670e0e0-c252-461b-9f45-100067a9ae4d.gif)
