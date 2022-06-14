@@ -1,4 +1,4 @@
-###### if you want to access my projects you can contact me by [Gmail](aliaghdam.erfan@gmail.com)
+###### if you want to access my private projects you can contact me by [Gmail](aliaghdam.erfan@gmail.com)
 
 
 ---------------------------------------------
