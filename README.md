@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi👋+,Welcome+to+my+Github+repo+.)](https://git.io/typing-svg)
-
-
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Ubuntu&duration=2200&color=6DAF24&vCenter=true&width=408&height=66&lines=Hey+%F0%9F%91%8B;welcome+to+my+Github+repo+%F0%9F%91%BE.;%F0%9F%94%A5)](https://git.io/typing-svg)
 
 ###### if you want to access my private projects you can contact me by <a href = "mailto: aliaghdam.erfan@gmail.com">Send Email</a>
 
