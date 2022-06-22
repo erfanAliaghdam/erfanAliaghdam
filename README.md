@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi👋+,Welcome+to+my+Github+repo+.)](https://git.io/typing-svg)
+
+
+
 ###### if you want to access my private projects you can contact me by <a href = "mailto: aliaghdam.erfan@gmail.com">Send Email</a>
 
 
