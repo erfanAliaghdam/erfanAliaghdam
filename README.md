@@ -1,10 +1,6 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Ubuntu&duration=2200&color=6DAF24&vCenter=true&width=408&height=66&lines=Hey+%F0%9F%91%8B;welcome+to+my+Github+repo+%F0%9F%91%BE.;%F0%9F%94%A5)](https://git.io/typing-svg)
 
 
-<a href="https://github.com/OWNER/REPO/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=OWNER/REPO" />
-</a>
-
 
 ###### if you want to access my private projects you can contact me by <a href = "mailto: aliaghdam.erfan@gmail.com">Send Email</a>
 
@@ -33,7 +29,4 @@
 <img src="https://user-images.githubusercontent.com/80113382/152644310-c670e0e0-c252-461b-9f45-100067a9ae4d.gif" width="280"/>
 </a>
 
-<!-- <a href="#"><img src="[https://desmond75.github.io/img/IMG_20171214_095012.jpg](https://user-images.githubusercontent.com/80113382/152644310-c670e0e0-c252-461b-9f45-100067a9ae4d.gif)" height="auto" width="200" style="border-radius:50%"></a>
 
-
-![giphy (1)](https://user-images.githubusercontent.com/80113382/152644310-c670e0e0-c252-461b-9f45-100067a9ae4d.gif) -->
