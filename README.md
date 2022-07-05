@@ -2,13 +2,23 @@
 
 
 
+
 ###### if you want to access my private projects you can contact me by <a href = "mailto: aliaghdam.erfan@gmail.com">Send Email</a>
 
 
 ---------------------------------------------
-### Personal Profile : 
+
+<a href="https://github.com/OWNER/REPO/graphs/contributors">
+ <img src="https://user-images.githubusercontent.com/80113382/177318403-e6364c7b-c35f-4924-a7a3-74e5567c22f3.svg" width="50"/>
+</a>  
+
+ ### Personal Profile : 
+
+
+
+
  > 🐍 I am interested in computer science and developing hard unsolved problems with Python, I am an innovative Django full-stack developer familiar with React-Native(Expo) and other frontend tools like HTML, CSS, Bootstrap,... 🔫.
- 
+
  > 📗 Dedicated to learning, growing, and succeeding in Artificial intelligence especially deep learning and working on projects like melanoma cancer detection with      CNN and Anime face generator using Gans and...
  
  > 🤖 experienced in designing and creating API and non-API automation systems for trading on exchanges and extended advertisement systems on social media with python.
@@ -25,8 +35,8 @@
 ### 📬 Contact me : <a href = "mailto: aliaghdam.erfan@gmail.com">Send Email</a>
 
 
-<a href="https://github.com/OWNER/REPO/graphs/contributors">
-<img src="https://user-images.githubusercontent.com/80113382/152644310-c670e0e0-c252-461b-9f45-100067a9ae4d.gif" width="280"/>
-</a>
+
+
+
 
 
