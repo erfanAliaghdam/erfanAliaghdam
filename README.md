@@ -15,6 +15,8 @@
 
 <img src='https://user-images.githubusercontent.com/80113382/177332733-28a53a09-b273-4641-ac30-8ed0ac95f168.png' align='right' width='27%'>
 
+
+# about me:
  > 🐍 I am interested in computer science and developing hard unsolved problems with Python, I am an innovative Django full-stack developer familiar with React-Native(Expo) and other frontend tools like HTML, CSS, Bootstrap,... 🔫.
 
  > 📗 Dedicated to learning, growing, and succeeding in Artificial intelligence especially deep learning and working on projects like melanoma cancer detection with      CNN and Anime face generator using Gans and...
