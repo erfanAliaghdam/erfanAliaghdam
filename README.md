@@ -24,15 +24,18 @@
  > 🤖 experienced in designing and creating API and non-API automation systems for trading on exchanges and extended advertisement systems on social media with python.
 
 ---------------------------------------------
+<img src='https://user-images.githubusercontent.com/80113382/177392524-0a83b72c-4375-4a08-9cd1-be96d2b3299a.png' align='right' width='20%'>
 
 
 ### Certificates:
 > [Machine Learning](https://www.coursera.org/account/accomplishments/verify/MEBMFU27ZSCF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-
+-------
 > [DeepLearning](https://graduation.udacity.com/confirm/EECNYTXC)
-
+-------
 > [DeepLearning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta)
 
+
+##
 ---------------------------------------------
 ### 📬 Contact me : <a href = "mailto: aliaghdam.erfan@gmail.com">Send Email</a>
 
