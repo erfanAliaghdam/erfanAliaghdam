@@ -8,14 +8,12 @@
 
 ---------------------------------------------
 
-<a href="https://github.com/OWNER/REPO/graphs/contributors">
- <img src="https://user-images.githubusercontent.com/80113382/177318403-e6364c7b-c35f-4924-a7a3-74e5567c22f3.svg" width="50"/>
-</a>  
-
- ### Personal Profile : 
 
 
+  
 
+
+<img src='https://user-images.githubusercontent.com/80113382/177332733-28a53a09-b273-4641-ac30-8ed0ac95f168.png' align='right' width='27%'>
 
  > 🐍 I am interested in computer science and developing hard unsolved problems with Python, I am an innovative Django full-stack developer familiar with React-Native(Expo) and other frontend tools like HTML, CSS, Bootstrap,... 🔫.
 
@@ -24,6 +22,8 @@
  > 🤖 experienced in designing and creating API and non-API automation systems for trading on exchanges and extended advertisement systems on social media with python.
 
 ---------------------------------------------
+
+
 ### Certificates:
 > [Machine Learning](https://www.coursera.org/account/accomplishments/verify/MEBMFU27ZSCF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
