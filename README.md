@@ -29,6 +29,7 @@
 <img src='https://user-images.githubusercontent.com/80113382/177392524-0a83b72c-4375-4a08-9cd1-be96d2b3299a.png' align='right' width='20%'>
 
 
+
 ### Certificates:
 > [Machine Learning](https://www.coursera.org/account/accomplishments/verify/MEBMFU27ZSCF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 -------
@@ -37,7 +38,25 @@
 > [DeepLearning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta)
 
 
+
 ##
+<img src='https://user-images.githubusercontent.com/80113382/177596337-177311f6-bacf-4192-a445-d89590bc064e.png' align='left' width='8%'>
+<img src='https://user-images.githubusercontent.com/80113382/177595626-5f1111df-eab3-486b-8243-bcd0ce9f3e06.svg' align='left' width='6%'>
+<img src='https://user-images.githubusercontent.com/80113382/177596041-bd3f586e-fe93-4eb1-bcea-624947358944.png' align='left' width='15%'>
+<img src='https://user-images.githubusercontent.com/80113382/177595180-7cef0954-35f7-4a1b-bf66-9feb470177a5.png' align='left' width='10%'>
+<img src='https://user-images.githubusercontent.com/80113382/177595218-25e00729-d7e8-4e86-b2e5-32bca6bb6625.svg' align='left' width='8%'>
+<img src='https://user-images.githubusercontent.com/80113382/177598530-1857c72e-af6c-44c8-8dbc-b68bc67945f3.svg' align='left' width=9%'>
+<img src='https://user-images.githubusercontent.com/80113382/177595479-6cac0210-fe50-436a-8d55-d4a647c19964.svg' align='left' width='8%'>
+<img src='https://user-images.githubusercontent.com/80113382/177596149-bf341b47-a1a9-4577-bf52-1362b5e95b0f.png' align='left' width='6%'>
+<img src='https://user-images.githubusercontent.com/80113382/177599854-bb182e81-3730-4eeb-a41e-2cd5427eb035.svg' align='left' width='8%'>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ---------------------------------------------
 ### 📬 Contact me : <a href = "mailto: aliaghdam.erfan@gmail.com">Send Email</a>
 
