@@ -3,6 +3,7 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Ubuntu&duration=2200&color=6DAF24&vCenter=true&width=408&height=66&lines=Hey+%F0%9F%91%8B;welcome+to+my+Github+repo+%F0%9F%91%BE.;%F0%9F%94%A5)](https://git.io/typing-svg)
 
 
+<img src='https://user-images.githubusercontent.com/80113382/177611759-0d468bc7-103d-4c0f-9c9d-8068e1e09a35.png' align='left' width='3%'>
 
 
 ###### if you want to access my private projects you can contact me by <a href = "mailto: aliaghdam.erfan@gmail.com">Send Email</a>
@@ -58,7 +59,9 @@
 <br>
 
 ---------------------------------------------
-### 📬 Contact me : <a href = "mailto: aliaghdam.erfan@gmail.com">Send Email</a>
+&nbsp;
+<img src='https://user-images.githubusercontent.com/80113382/177611759-0d468bc7-103d-4c0f-9c9d-8068e1e09a35.png' align='left' width='3%'>
+##### Contact me : <a href = "mailto: aliaghdam.erfan@gmail.com">Send Email</a>
 
 
 
