@@ -32,11 +32,11 @@
 
 
 ### Certificates:
-> [Machine Learning](https://www.coursera.org/account/accomplishments/verify/MEBMFU27ZSCF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+> [Machine Learning](https://coursera.org/share/82539bc00982e44fa8814eb9d6991442)
 -------
 > [DeepLearning](https://graduation.udacity.com/confirm/EECNYTXC)
 -------
-> [DeepLearning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta)
+> [DeepLearning](https://coursera.org/share/9198bf9e5641668612752b5cd17be8a2)
 
 
 
