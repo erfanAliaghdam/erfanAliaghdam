@@ -53,12 +53,30 @@
 <img src='https://user-images.githubusercontent.com/80113382/177600254-07c565b3-c7f5-4527-badb-e1a7f8ca6dec.svg' align='left' width='7%'>
 <img src='https://user-images.githubusercontent.com/80113382/177720206-827eeb86-7296-49ee-9828-4be8c2ce706d.png' align='left' width='7%'>
 
+<br>
+
+
+
 
 <br>
 <br>
 <br>
 <br>
 <br>
+
+![Python](https://img.shields.io/badge/%20-Python-brightgreen)
+![Django](https://img.shields.io/badge/%20-Django%20-green)
+![DRF](https://img.shields.io/badge/%20-DRF-yellow)
+![Pytest](https://img.shields.io/badge/%20-Pytest-%2328870b)
+![Psql](https://img.shields.io/badge/%20-PostgreSql%20-blue)
+![Pytorch](https://img.shields.io/badge/%20-Pytorch%20-orange)
+![HTML](https://img.shields.io/badge/%20-HTML-red)
+![CSS](https://img.shields.io/badge/%20-CSS-blue)
+![Bootstrap](https://img.shields.io/badge/%20-Bootstrap%20-%237952b4)
+![Selenium](https://img.shields.io/badge/%20-Selenium-lightgrey)
+
+
+
 
 ---------------------------------------------
 &nbsp;
