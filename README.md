@@ -12,7 +12,6 @@
 ---------------------------------------------
 
 
-
   
 ##
 
@@ -37,6 +36,11 @@
 > [DeepLearning](https://graduation.udacity.com/confirm/EECNYTXC)
 -------
 > [DeepLearning](https://coursera.org/share/9198bf9e5641668612752b5cd17be8a2)
+
+
+![CV-FILE](https://img.shields.io/badge/CV%20file%20(update%20%3A%20aug%2015%202022)%3A%20-download-red?link=https://github.com/erfanAliaghdam/erfanAliaghdam/files/9335826/cv6.pdf&link=https://github.com/erfanAliaghdam/erfanAliaghdam/files/9335826/cv6.pdf)
+
+
 
 
 
@@ -87,5 +91,7 @@
 
 
 
+## CV file (update : aug 15 2022): 
+![CV-FILE](https://img.shields.io/badge/CV%20file%20(update%20%3A%20aug%2015%202022)%3A%20-download-red?link=https://github.com/erfanAliaghdam/erfanAliaghdam/files/9335826/cv6.pdf&link=https://github.com/erfanAliaghdam/erfanAliaghdam/files/9335826/cv6.pdf)
 
 
