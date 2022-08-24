@@ -38,7 +38,10 @@
 > [DeepLearning](https://coursera.org/share/9198bf9e5641668612752b5cd17be8a2)
 
 
-<a href="https://github.com/erfanAliaghdam/erfanAliaghdam/files/9335826/cv6.pdf"><img src="https://img.shields.io/badge/CV%20file%20(update%20%3A%20aug%2015%202022)%3A%20-download-red?link=https://github.com/erfanAliaghdam/erfanAliaghdam/files/9335826/cv6.pdf&link=https://github.com/erfanAliaghdam/erfanAliaghdam/files/9335826/cv6.pdf" /></a>
+<a href="https://github.com/erfanAliaghdam/erfanAliaghdam/files/9335826/cv6.pdf"><img src="https://img.shields.io/badge/CV%20file%20(update%20%3A%20aug%2015%202022)%3A%20-download-red?link=https://github.com/erfanAliaghdam/erfanAliaghdam/files/9335826/cv6.pdf&link=https://github.com/erfanAliaghdam/erfanAliaghdam/files/9414843/Erfan.Aliaghdam-5.pdf" /></a>
+
+
+
 
 
 
@@ -92,4 +95,95 @@
 ## CV file (update : aug 15 2022): 
 
 
-<a href="https://github.com/erfanAliaghdam/erfanAliaghdam/files/9335826/cv6.pdf"><img src="https://img.shields.io/badge/CV%20file%20(update%20%3A%20aug%2015%202022)%3A%20-download-red?link=https://github.com/erfanAliaghdam/erfanAliaghdam/files/9335826/cv6.pdf&link=https://github.com/erfanAliaghdam/erfanAliaghdam/files/9335826/cv6.pdf" /></a>
+<a href="https://github.com/erfanAliaghdam/erfanAliaghdam/files/9335826/cv6.pdf"><img src="https://img.shields.io/badge/CV%20file%20(update%20%3A%20aug%2015%202022)%3A%20-download-red?link=https://github.com/erfanAliaghdam/erfanAliaghdam/files/9335826/cv6.pdf&link=https://github.com/erfanAliaghdam/erfanAliaghdam/files/9414843/Erfan.Aliaghdam-5.pdf" /></a>
+
+
+# Projects : 
+
+
+![Untitled-8](https://user-images.githubusercontent.com/80113382/186372951-1ac12d67-a0ff-4a95-bac3-eda02e95877d.png)
+> ## Music Platform With Concert Reservation
+> ### this project is a complete music platform with:
+> - 1- concert reservation and ticketing system
+> - 2- users can Tip their favorite artist
+> - 3- Artist can add bitcoin and dogecoin wallet (Wallets automatically can generate to Qr-Code)
+> - 4- music player
+> - 5- music upload and download
+> - 6- Artist profile
+> - 7- user profile
+> - 8- Single Track
+> - 9- Album
+
+
+> ## Technologies used:
+> - Django
+> - Python
+> - PostgreSql
+> - Django Rest Framework
+> - Redis
+> - Celery
+> - Django Signals
+> - Djoser for JWT Auth
+> - Django debugger toolbar , Silk, ...
+
+![Untitled-9](https://user-images.githubusercontent.com/80113382/186381667-16ae9db9-f501-4b4b-a386-3b4eb35f9633.png)
+
+> ## Proj
+> ### with this platform interns can find their dream job and companies / Professors can find their dream interns
+
+> ## Technologies used:
+> - Django
+> - Python
+> - PostgreSql
+> - Django Rest Framework
+> - Redis
+> - Celery
+> - Django Signals
+> - DJango debugger toolbar , Silk, ...
+
+![Untitled-10](https://user-images.githubusercontent.com/80113382/186382891-105fd750-b26e-4514-8098-33b6e6cc587b.png)
+
+> ## Melanoma Cancer detection with CNN.
+> ### this project is implemented in Pytorch and RESNET50 with 70% accuracy
+> ### Technologies used in Jupyter Version:
+> - Python
+> - Pytorch
+> - NumPy
+> - MatPlotLib
+> - Jupyter Notebook
+> ### Technologies used in Django Version:
+> - Python
+> - Django
+> - HTML & CSS
+> - Tailwind
+> - Pytorch
+> - NumPy
+> - MatPlotLib
+
+
+![Untitled-11](https://user-images.githubusercontent.com/80113382/186383567-f61521cd-345c-45b6-9733-27077a43f418.png)
+
+> ## Solar Panel electricity
+> ### This project obtains the talent of the region in extracting electricity from solar panels by examining satellite photos and building density.
+> ### Technologies used :
+> - Python
+> - Pytorch
+> - NumPy
+> - MatPlotLib
+> - Jupyter Notebook
+
+
+![Untitled-12](https://user-images.githubusercontent.com/80113382/186383925-3dbd8330-8261-4c21-9409-682548092fcb.png)
+
+> ## Anime face generator.
+> ### This project can generate new anime faces with Gans.
+> ### Technologies used :
+> - Python
+> - Pytorch
+> - NumPy
+> - MatPlotLib
+> - Jupyter Notebook
+
+
+
+
