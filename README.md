@@ -102,7 +102,7 @@
 
 
 ![Untitled-8](https://user-images.githubusercontent.com/80113382/186372951-1ac12d67-a0ff-4a95-bac3-eda02e95877d.png)
-> ## Music Platform With Concert Reservation
+> ## <a href="https://github.com/erfanAliaghdam/django_project_with_payment_functionality_for_music"> Music Platform With Concert Reservation</a>
 > ### this project is a complete music platform with:
 > - 1- concert reservation and ticketing system
 > - 2- users can Tip their favorite artist
@@ -113,8 +113,6 @@
 > - 7- user profile
 > - 8- Single Track
 > - 9- Album
-
-
 > ## Technologies used:
 > - Django
 > - Python
@@ -128,10 +126,9 @@
 
 ![Untitled-9](https://user-images.githubusercontent.com/80113382/186381667-16ae9db9-f501-4b4b-a386-3b4eb35f9633.png)
 
-> ## Proj
+> ## <a href="https://github.com/erfanAliaghdam/django-website-backend-for-projects"> Proj </a>
 > ### with this platform interns can find their dream job and companies / Professors can find their dream interns
-
-> ## Technologies used:
+> ### Technologies used:
 > - Django
 > - Python
 > - PostgreSql
@@ -143,7 +140,8 @@
 
 ![Untitled-10](https://user-images.githubusercontent.com/80113382/186382891-105fd750-b26e-4514-8098-33b6e6cc587b.png)
 
-> ## Melanoma Cancer detection with CNN.
+> ## <a href="https://github.com/erfanAliaghdam/dermatologist-pytorch-classifier"> Melanoma Cancer detection with CNN (Jupyter Version).</a>
+> ## <a href="https://github.com/erfanAliaghdam/dermontologistWithDjango"> Melanoma Cancer detection with CNN (Django Version).</a>
 > ### this project is implemented in Pytorch and RESNET50 with 70% accuracy
 > ### Technologies used in Jupyter Version:
 > - Python
@@ -163,7 +161,7 @@
 
 ![Untitled-11](https://user-images.githubusercontent.com/80113382/186383567-f61521cd-345c-45b6-9733-27077a43f418.png)
 
-> ## Solar Panel electricity
+> ## <a href="https://github.com/erfanAliaghdam/solarSegmentationWithUnet"> Solar Panel electricity </a>
 > ### This project obtains the talent of the region in extracting electricity from solar panels by examining satellite photos and building density.
 > ### Technologies used :
 > - Python
@@ -175,7 +173,7 @@
 
 ![Untitled-12](https://user-images.githubusercontent.com/80113382/186383925-3dbd8330-8261-4c21-9409-682548092fcb.png)
 
-> ## Anime face generator.
+> ## <a href="https://github.com/erfanAliaghdam/animeFaceWithGans">Anime face generator.<a>
 > ### This project can generate new anime faces with Gans.
 > ### Technologies used :
 > - Python
