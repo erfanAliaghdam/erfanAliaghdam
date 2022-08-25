@@ -123,6 +123,7 @@
 > - Django Signals
 > - Djoser for JWT Auth
 > - Django debugger toolbar , Silk, ...
+> - Redoc
 
 ![Untitled-9](https://user-images.githubusercontent.com/80113382/186381667-16ae9db9-f501-4b4b-a386-3b4eb35f9633.png)
 
