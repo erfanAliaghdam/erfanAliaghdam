@@ -103,6 +103,7 @@
 
 ![Untitled-8](https://user-images.githubusercontent.com/80113382/186372951-1ac12d67-a0ff-4a95-bac3-eda02e95877d.png)
 > ## <a href="https://github.com/erfanAliaghdam/django_project_with_payment_functionality_for_music"> Music Platform With Concert Reservation</a>
+> ### this project is under development
 > ### this project is a complete music platform with:
 > - 1- concert reservation and ticketing system
 > - 2- users can Tip their favorite artist
