@@ -38,7 +38,7 @@
 > [DeepLearning](https://coursera.org/share/9198bf9e5641668612752b5cd17be8a2)
 
 
-<a href="https://github.com/erfanAliaghdam/erfanAliaghdam/files/9335826/cv6.pdf"><img src="https://img.shields.io/badge/CV%20file%20(update%20%3A%20aug%2015%202022)%3A%20-download-red?link=https://github.com/erfanAliaghdam/erfanAliaghdam/files/9335826/cv6.pdf&link=https://github.com/erfanAliaghdam/erfanAliaghdam/files/9414843/Erfan.Aliaghdam-5.pdf" /></a>
+<a href="https://github.com/erfanAliaghdam/erfanAliaghdam/files/9335826/cv6.pdf"><img src="https://img.shields.io/badge/CV%20file%20(update%20%3A%20aug%2015%202022)%3A%20-download-red?link=https://github.com/erfanAliaghdam/erfanAliaghdam/files/10084424/Erfan.Aliaghdam-10.pdf" /></a>
 
 
 
@@ -95,7 +95,7 @@
 ## CV file (update : aug 15 2022): 
 
 
-<a href="https://github.com/erfanAliaghdam/erfanAliaghdam/files/9335826/cv6.pdf"><img src="https://img.shields.io/badge/CV%20file%20(update%20%3A%20aug%2015%202022)%3A%20-download-red?link=https://github.com/erfanAliaghdam/erfanAliaghdam/files/9335826/cv6.pdf&link=https://github.com/erfanAliaghdam/erfanAliaghdam/files/9414843/Erfan.Aliaghdam-5.pdf" /></a>
+<a href="https://github.com/erfanAliaghdam/erfanAliaghdam/files/9335826/cv6.pdf"><img src="https://img.shields.io/badge/CV%20file%20(update%20%3A%20aug%2015%202022)%3A%20-download-red?link=https://github.com/erfanAliaghdam/erfanAliaghdam/files/10084424/Erfan.Aliaghdam-10.pdf" /></a>
 
 
 # Projects : 
