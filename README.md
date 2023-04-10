@@ -6,7 +6,7 @@
 <img src='https://user-images.githubusercontent.com/80113382/177611759-0d468bc7-103d-4c0f-9c9d-8068e1e09a35.png' align='left' width='3%'>
 
 
-###### if you want to access my private projects you can contact me by <a href = "mailto: aliaghdam.erfan@gmail.com">Send Email</a>
+###### if you want to access my private projects you can contact me by <a href = "mailto: aliaghdam.erfan@gmail.com">Email</a>
 
 
 ---------------------------------------------
