@@ -19,7 +19,7 @@
 
 
 # about me:
- > 🐍 I am interested in computer science and solving challenging problems with Python, I am an innovative Django full-stack developer familiar with React-Native(Expo) and other frontend tools like HTML, CSS, Bootstrap,... .
+ > 🐍 I am interested in computer science and solving challenging problems with Python, I am an innovative Backend developer familiar with React-Native(Expo) and other frontend tools like HTML, CSS, Bootstrap,... .
 
  > 📗 Dedicated to learning, growing, and succeeding in Artificial intelligence especially deep learning and working on projects like melanoma cancer detection with      CNN and Anime face generator using Gans and...
  
