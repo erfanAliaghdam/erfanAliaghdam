@@ -95,44 +95,6 @@
 # Projects : 
 
 
-![Untitled-8](https://user-images.githubusercontent.com/80113382/186372951-1ac12d67-a0ff-4a95-bac3-eda02e95877d.png)
-> ## <a href="https://github.com/erfanAliaghdam/django_project_with_payment_functionality_for_music"> Music Platform With Concert Reservation</a>
-> ### this project is under development
-> ### this project is a complete music platform with:
-> - 1- concert reservation and ticketing system
-> - 2- users can Tip their favorite artist
-> - 3- Artist can add bitcoin and dogecoin wallet (Wallets automatically can generate to Qr-Code)
-> - 4- music player
-> - 5- music upload and download
-> - 6- Artist profile
-> - 7- user profile
-> - 8- Single Track
-> - 9- Album
-> ## Technologies used:
-> - Django
-> - Python
-> - PostgreSql
-> - Django Rest Framework
-> - Redis
-> - Celery
-> - Django Signals
-> - Djoser for JWT Auth
-> - Django debugger toolbar , Silk, ...
-> - Redoc
-
-![Untitled-9](https://user-images.githubusercontent.com/80113382/186381667-16ae9db9-f501-4b4b-a386-3b4eb35f9633.png)
-
-> ## <a href="https://github.com/erfanAliaghdam/django-website-backend-for-projects"> Proj </a>
-> ### with this platform interns can find their dream job and companies / Professors can find their dream interns
-> ### Technologies used:
-> - Django
-> - Python
-> - PostgreSql
-> - Django Rest Framework
-> - Redis
-> - Celery
-> - Django Signals
-> - DJango debugger toolbar , Silk, ...
 
 ![Untitled-10](https://user-images.githubusercontent.com/80113382/186382891-105fd750-b26e-4514-8098-33b6e6cc587b.png)
 
