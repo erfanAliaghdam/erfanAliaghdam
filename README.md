@@ -94,13 +94,32 @@
 
 # Projects : 
 
+![Untitled-10](https://github.com/erfanAliaghdam/erfanAliaghdam/assets/80113382/4a6bf226-146e-4ef3-874d-f130db543a52)
 
+> ## <a href="https://github.com/erfanAliaghdam/dermatologist-pytorch-classifier">‌ Bookify.</a>
+> ## <a href="https://github.com/erfanAliaghdam/dermontologistWithDjango"> I'm updating my latest experiences as a Django backend developer on this branch </a>
+> ### This project is under development and not finished yet...
+> ### I'm going to use :
+> - Django
+> - Drf
+> - Unit test
+> - DDD
+> - Docker and docker-compose
+> - celery
+> - Redis
+> - Smtp
+> - Firebase
+> - Django debugger toolbar
+> - Silk
+> - Locust
+> - Customizing Django admin panel
+> - ...
 
 ![Untitled-10](https://user-images.githubusercontent.com/80113382/186382891-105fd750-b26e-4514-8098-33b6e6cc587b.png)
 
 > ## <a href="https://github.com/erfanAliaghdam/dermatologist-pytorch-classifier"> Melanoma Cancer detection with CNN (Jupyter Version).</a>
 > ## <a href="https://github.com/erfanAliaghdam/dermontologistWithDjango"> Melanoma Cancer detection with CNN (Django Version).</a>
-> ### this project is implemented in Pytorch and RESNET50 with 70% accuracy
+> ### This project is implemented by Pytorch and RESNET50 with 70% accuracy
 > ### Technologies used in Jupyter Version:
 > - Python
 > - Pytorch
@@ -120,7 +139,7 @@
 ![Untitled-11](https://user-images.githubusercontent.com/80113382/186383567-f61521cd-345c-45b6-9733-27077a43f418.png)
 
 > ## <a href="https://github.com/erfanAliaghdam/solarSegmentationWithUnet"> Solar Panel electricity </a>
-> ### This project obtains the talent of the region in extracting electricity from solar panels by examining satellite photos and building density.
+> ### The ability of a region to generate electricity with solar through the roofs of houses.
 > ### Technologies used :
 > - Python
 > - Pytorch
