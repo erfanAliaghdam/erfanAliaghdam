@@ -96,8 +96,8 @@
 
 ![Untitled-10](https://github.com/erfanAliaghdam/erfanAliaghdam/assets/80113382/4a6bf226-146e-4ef3-874d-f130db543a52)
 
-> ## <a href="https://github.com/erfanAliaghdam/dermatologist-pytorch-classifier">‌ Bookify.</a>
-> ## <a href="https://github.com/erfanAliaghdam/dermontologistWithDjango"> I'm updating my latest backend experiences on this branch </a>
+> ## <a href="">‌ Bookify.</a>
+> ## <a href=""> I'm updating my latest backend experiences on this branch </a>
 > ### This project is under development and not finished yet...
 > ### I'm going to use :
 > - Django
