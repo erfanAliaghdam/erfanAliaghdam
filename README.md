@@ -109,6 +109,7 @@
 > - Silk
 > - Locust
 > - Customizing Django admin panel
+> - nginx
 > - ...
 
 ![Untitled-10](https://user-images.githubusercontent.com/80113382/186382891-105fd750-b26e-4514-8098-33b6e6cc587b.png)
