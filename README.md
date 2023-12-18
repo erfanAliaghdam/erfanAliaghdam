@@ -6,6 +6,7 @@
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Ubuntu&duration=2200&color=6DAF24&vCenter=true&width=408&height=66&lines=Hey+%F0%9F%91%8B;Welcome+to+my+Github+Page+%F0%9F%91%BE.;%F0%9F%94%A5)](https://git.io/typing-svg)
 
+[//]: < [Erfan Aliaghdam-5.pdf](https://github.com/erfanAliaghdam/erfanAliaghdam/files/13702246/Erfan.Aliaghdam-5.pdf) >
 
 
   
