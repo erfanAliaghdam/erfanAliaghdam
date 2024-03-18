@@ -41,19 +41,21 @@
 
 
 ##
-<img src='https://user-images.githubusercontent.com/80113382/177596337-177311f6-bacf-4192-a445-d89590bc064e.png' align='left' width='6%'>
+<img src='https://user-images.githubusercontent.com/80113382/177596337-177311f6-bacf-4192-a445-d89590bc064e.png' align='left' width='4%'>
 <img src='https://user-images.githubusercontent.com/80113382/177595626-5f1111df-eab3-486b-8243-bcd0ce9f3e06.svg' align='left' width='4%'>
-<img src='https://user-images.githubusercontent.com/80113382/177600945-fc22d511-8166-420d-856b-470db4ffbbbf.png' align='left' width='9%'>
-<img src='https://user-images.githubusercontent.com/80113382/177595180-7cef0954-35f7-4a1b-bf66-9feb470177a5.png' align='left' width='8%'>
-<img src='https://user-images.githubusercontent.com/80113382/177595218-25e00729-d7e8-4e86-b2e5-32bca6bb6625.svg' align='left' width='6%'>
-<img src='https://user-images.githubusercontent.com/80113382/177598530-1857c72e-af6c-44c8-8dbc-b68bc67945f3.svg' align='left' width='7%'>
-<img src='https://user-images.githubusercontent.com/80113382/177595479-6cac0210-fe50-436a-8d55-d4a647c19964.svg' align='left' width='7%'>
-<img src='https://user-images.githubusercontent.com/80113382/177596149-bf341b47-a1a9-4577-bf52-1362b5e95b0f.png' align='left' width='5%'>
-<img src='https://user-images.githubusercontent.com/80113382/177599854-bb182e81-3730-4eeb-a41e-2cd5427eb035.svg' align='left' width='7%'>
-<img src='https://user-images.githubusercontent.com/80113382/177600254-07c565b3-c7f5-4527-badb-e1a7f8ca6dec.svg' align='left' width='7%'>
-<img src='https://user-images.githubusercontent.com/80113382/177720206-827eeb86-7296-49ee-9828-4be8c2ce706d.png' align='left' width='7%'>
+<img src='https://user-images.githubusercontent.com/80113382/177600945-fc22d511-8166-420d-856b-470db4ffbbbf.png' align='left' width='4%'>
+<img src='https://user-images.githubusercontent.com/80113382/177595180-7cef0954-35f7-4a1b-bf66-9feb470177a5.png' align='left' width='4%'>
+<img src='https://user-images.githubusercontent.com/80113382/177595218-25e00729-d7e8-4e86-b2e5-32bca6bb6625.svg' align='left' width='4%'>
+<img src='https://user-images.githubusercontent.com/80113382/177598530-1857c72e-af6c-44c8-8dbc-b68bc67945f3.svg' align='left' width='4%'>
+<img src='https://user-images.githubusercontent.com/80113382/177595479-6cac0210-fe50-436a-8d55-d4a647c19964.svg' align='left' width='4%'>
+<img src='https://user-images.githubusercontent.com/80113382/177596149-bf341b47-a1a9-4577-bf52-1362b5e95b0f.png' align='left' width='3%'>
+<img src='https://user-images.githubusercontent.com/80113382/177599854-bb182e81-3730-4eeb-a41e-2cd5427eb035.svg' align='left' width='4%'>
+<img src='https://user-images.githubusercontent.com/80113382/177600254-07c565b3-c7f5-4527-badb-e1a7f8ca6dec.svg' align='left' width='4%'>
+<img src='https://user-images.githubusercontent.com/80113382/177720206-827eeb86-7296-49ee-9828-4be8c2ce706d.png' align='left' width='4%'>
+<img src='https://github.com/erfanAliaghdam/erfanAliaghdam/assets/80113382/4031dd8a-a980-4646-8ed6-66320f87e493' align='left' width='4%'>
 
 <br>
+
 
 
 
@@ -76,7 +78,8 @@
 ![CSS](https://img.shields.io/badge/%20-CSS-blue)
 ![Bootstrap](https://img.shields.io/badge/%20-Bootstrap%20-%237952b4)
 ![Selenium](https://img.shields.io/badge/%20-Selenium-lightgrey)
-
+![Rust](https://img.shields.io/badge/%20-Rust-black)
+![Axum](https://img.shields.io/badge/%20-Axum-white)
 
 
 
