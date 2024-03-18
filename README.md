@@ -1,21 +1,21 @@
-<img src='https://user-images.githubusercontent.com/80113382/177538232-262cc624-b218-4b51-b655-2360f74a1419.gif' align='left' width='20%'>
-
-
 # Erfan Aliaghdam
+<img src='https://user-images.githubusercontent.com/80113382/177538232-262cc624-b218-4b51-b655-2360f74a1419.gif' align='left' width='10%'>
+
+
+---------------------------------------------
 
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Ubuntu&duration=2200&color=6DAF24&vCenter=true&width=408&height=66&lines=Hey+%F0%9F%91%8B;Welcome+to+my+Github+Page+%F0%9F%91%BE.;%F0%9F%94%A5)](https://git.io/typing-svg)
 
-[//]: < [Erfan Aliaghdam-5.pdf](https://github.com/erfanAliaghdam/erfanAliaghdam/files/13702246/Erfan.Aliaghdam-5.pdf) >
-
-
-  
-##
-
-<img src='https://user-images.githubusercontent.com/80113382/177332733-28a53a09-b273-4641-ac30-8ed0ac95f168.png' align='right' width='27%'>
 
 
 # about me:
+---------------------------------------------
+
+<img src='https://user-images.githubusercontent.com/80113382/177332733-28a53a09-b273-4641-ac30-8ed0ac95f168.png' align='right' width='15%' style='margin-top: 50px;'>
+
+
+
  > 🐍 I am interested in computer science and solving challenging problems with Python, I am an innovative Backend developer familiar with React-Native(Expo) and other frontend tools like HTML, CSS, Bootstrap,... .
 
  > 📗 Dedicated to learning, growing, and succeeding in Artificial intelligence especially deep learning and working on projects like melanoma cancer detection with      CNN and Anime face generator using Gans and...
