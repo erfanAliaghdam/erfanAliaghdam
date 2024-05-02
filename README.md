@@ -89,9 +89,7 @@
 ##### Contact me : <a href = "mailto: aliaghdam.erfan@gmail.com">Send Email</a>
 
 
-
-
-
+<!---
 # Projects : 
 
 ![Untitled-10](https://github.com/erfanAliaghdam/erfanAliaghdam/assets/80113382/4a6bf226-146e-4ef3-874d-f130db543a52)
@@ -160,6 +158,5 @@
 > - MatPlotLib
 > - Jupyter Notebook
 
-
-
+--->
 
