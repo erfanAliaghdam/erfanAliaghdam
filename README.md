@@ -1,4 +1,3 @@
-# Erfan Aliaghdam
 <img src='https://user-images.githubusercontent.com/80113382/177538232-262cc624-b218-4b51-b655-2360f74a1419.gif' align='left' width='10%'>
 
 
@@ -16,7 +15,7 @@
 
 
 
- > 🐍 I am interested in computer science and solving challenging problems with Python, I am an innovative Backend developer familiar with React-Native(Expo) and other frontend tools like HTML, CSS, Bootstrap,... .
+ > 🐍 I am interested in computer science and solving challenging problems with Python and Golang, I am an innovative Backend developer familiar with React-Native(Expo) and other frontend tools like HTML, CSS, Bootstrap,... .
 
  > 📗 Dedicated to learning, growing, and succeeding in Artificial intelligence especially deep learning and working on projects like melanoma cancer detection with      CNN and Anime face generator using Gans and...
  
@@ -42,6 +41,7 @@
 
 ##
 <img src='https://user-images.githubusercontent.com/80113382/177596337-177311f6-bacf-4192-a445-d89590bc064e.png' align='left' width='4%'>
+<img src='https://github.com/user-attachments/assets/480a6de4-cd94-4c6c-ae57-a8bebf5fab71' align='left' width='3%'>
 <img src='https://user-images.githubusercontent.com/80113382/177595626-5f1111df-eab3-486b-8243-bcd0ce9f3e06.svg' align='left' width='4%'>
 <img src='https://user-images.githubusercontent.com/80113382/177600945-fc22d511-8166-420d-856b-470db4ffbbbf.png' align='left' width='4%'>
 <img src='https://user-images.githubusercontent.com/80113382/177595180-7cef0954-35f7-4a1b-bf66-9feb470177a5.png' align='left' width='4%'>
@@ -59,7 +59,6 @@
 
 
 
-
 <br>
 <br>
 <br>
@@ -67,6 +66,7 @@
 <br>
 
 ![Python](https://img.shields.io/badge/%20-Python-brightgreen)
+![Golang](https://img.shields.io/badge/%20-Golang-blue)
 ![Django](https://img.shields.io/badge/%20-Django%20-green)
 ![DRF](https://img.shields.io/badge/%20-DRF-yellow)
 ![unittest](https://img.shields.io/badge/%20-unittest-%2328870b)
