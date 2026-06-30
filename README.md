@@ -15,9 +15,9 @@
 
 
 
- > 🐍 I am interested in computer science and solving challenging problems with Python and Golang, I am an innovative Backend developer familiar with React-Native(Expo) and other frontend tools like HTML, CSS, Bootstrap,... .
+ > 🐍 I am interested in computer science and solving challenging problems with Python and Golang, I am an innovative Backend developer familiar with Frontend tools like React, HTML, CSS, Bootstrap,... .
 
- > 📗 Dedicated to learning, growing, and succeeding in Artificial intelligence especially deep learning and working on projects like melanoma cancer detection with      CNN and Anime face generator using Gans and...
+ > 📗 Dedicated to learning, growing, and succeeding in Software Engineering and Artificial intelligence especially deep learning in Health Care and image processing .
  
  > 🤖 experienced in designing and creating API and non-API automation systems for trading on exchanges and extended advertisement systems on social media with python.
 
