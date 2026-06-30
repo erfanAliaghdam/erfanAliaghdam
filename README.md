@@ -81,9 +81,19 @@
 ![Rust](https://img.shields.io/badge/%20-Rust-black)
 ![Axum](https://img.shields.io/badge/%20-Axum-white)
 
+---------------------------------------------
 
+## 📄 Research Paper
+
+**A Two-stage Model for Skin Cancer Detection Using Convolutional Neural Networks**
+
+Published in *International Journal of Engineering (IJE)*, 2026
+
+🔗 **DOI:** [10.5829/ije.2026.39.06c.18](https://doi.org/10.5829/ije.2026.39.06c.18)
 
 ---------------------------------------------
+
+
 &nbsp;
 <img src='https://user-images.githubusercontent.com/80113382/177611759-0d468bc7-103d-4c0f-9c9d-8068e1e09a35.png' align='left' width='3%'>
 ##### Contact me : <a href = "mailto: aliaghdam.erfan@gmail.com">Send Email</a>
